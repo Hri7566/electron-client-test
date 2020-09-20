@@ -1,0 +1,15 @@
+{
+  "name": "electron-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ws": "^7.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "electron ."
+  },
+  "author": "Hri7566",
+  "license": "ISC"
+}
